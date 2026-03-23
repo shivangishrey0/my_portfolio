@@ -30,7 +30,7 @@ export const personalInfo = {
   email: 'shivangishreya2@gmail.com',
   github: 'https://github.com/shivangishrey0',
   linkedin: 'https://linkedin.com/in/shivangi-shreya20',
-  resumeUrl: '/shivangi2.pdf',
+  resumeUrl: '/CV_shivangi2.pdf',
 };
 
 export const education = [
