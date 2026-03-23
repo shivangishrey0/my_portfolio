@@ -30,7 +30,7 @@ export const personalInfo = {
   email: 'shivangishreya2@gmail.com',
   github: 'https://github.com/shivangishrey0',
   linkedin: 'https://linkedin.com/in/shivangi-shreya20',
-  resumeUrl: '/CV_shivangi.pdf',
+  resumeUrl: '/shivangi2.pdf',
 };
 
 export const education = [
@@ -38,7 +38,7 @@ export const education = [
     degree: 'Bachelor of Technology - Computer Science and Engineering',
     institution: 'Lovely Professional University (Punjab, India)',
     period: 'August 2023 - Present',
-    score: 'CGPA: 7.96',
+    score: 'CGPA: 8.04',
     icon: GraduationCap,
   },
   {
