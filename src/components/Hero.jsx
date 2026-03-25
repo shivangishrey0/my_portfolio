@@ -80,7 +80,7 @@ export default function Hero() {
             </button>
             <a
               href={personalInfo.resumeUrl}
-              download="CV_Shivangi_Shreya.pdf"
+              download="CV_Shivangi_FirstDraft.pdf"
               className="btn-outline flex items-center gap-2 text-sm md:text-base"
             >
               <Download size={18} />
